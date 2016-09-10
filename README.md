@@ -22,4 +22,4 @@ security_group - the security group name that will be used/created
 number_of_servers - number of redis slaves + redis master
 port_redis - port used for redis communication
 
-Top run the playbook: #ansible redis.yml
+Top run the playbook run the command: ansible redis.yml
